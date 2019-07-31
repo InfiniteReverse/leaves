@@ -9,7 +9,6 @@
 * [多线程总结](ios/multithread.md)
 * [Runloop总结](ios/runloop-analysis.md)
 * [Hybrid分析](ios/hybrid-analysis.md)
-* [OC与Swift混编](ios/oc-mix-swift.md)
 * [Socket总结](ios/socket.md)
 * [iOS网络层设计](ios/ios-network-design.md)
 * [持续构建总结](ios/ci-analysis.md)
@@ -19,6 +18,11 @@
 * [App Crash指标](ios/crash-specification.md)
 * [iOS组件化设计与实现](ios/ios-modularized-design.md)
 * [pthread了解](ios/pthread.md)
+
+## Swift
+
+* [static func 与 class func 区别](swift/static-func-yu-class-func-qu-bie.md)
+* [OC与Swift混编](swift/oc-mix-swift.md)
 
 ## Ruby
 
