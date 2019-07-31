@@ -42,7 +42,7 @@
 10. 模板模式（Template Pattern）
 11. 访问者模式（Visitor Pattern）
 
-##### 六大原则：
+#### 六大原则：
 
 开闭原则：实现热插拔，提高扩展性; 在程序需要进行拓展的时候，不能去修改原有的代码。
 
@@ -56,10 +56,5 @@
 
 合成复用原则：尽量使用聚合，组合，而不是继承；
 
+> [https://www.runoob.com/design-pattern/design-pattern-intro.html](https://www.runoob.com/design-pattern/design-pattern-intro.html)
 
-
-
-
-
-
-> <https://www.runoob.com/design-pattern/design-pattern-intro.html>
