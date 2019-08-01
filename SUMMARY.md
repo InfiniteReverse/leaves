@@ -2,6 +2,12 @@
 
 * [Initial page](README.md)
 
+## Swift
+
+* [static func 与 class func 区别](swift/static-func-yu-class-func-qu-bie.md)
+* [OC与Swift混编](swift/oc-mix-swift.md)
+* [Access Control 访问控制](swift/access-control-fang-wen-kong-zhi.md)
+
 ## iOS
 
 * [AutoreleasePool总结](ios/autoreleasepool.md)
@@ -18,11 +24,6 @@
 * [App Crash指标](ios/crash-specification.md)
 * [iOS组件化设计与实现](ios/ios-modularized-design.md)
 * [pthread了解](ios/pthread.md)
-
-## Swift
-
-* [static func 与 class func 区别](swift/static-func-yu-class-func-qu-bie.md)
-* [OC与Swift混编](swift/oc-mix-swift.md)
 
 ## Ruby
 
