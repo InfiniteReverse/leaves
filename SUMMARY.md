@@ -7,6 +7,11 @@
 * [static func 与 class func 区别](swift/static-func-yu-class-func-qu-bie.md)
 * [OC与Swift混编](swift/oc-mix-swift.md)
 * [Access Control 访问控制](swift/access-control-fang-wen-kong-zhi.md)
+* [Swift中返回Self](swift/swift-zhong-fan-hui-self.md)
+
+## RxSwift
+
+* [Delegate proxy](rxswift/delegate-proxy.md)
 
 ## iOS
 
