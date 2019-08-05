@@ -1,4 +1,4 @@
-# Initial page
+# Hello world!
 
 ## Getting Super Powers
 
