@@ -32,7 +32,14 @@
 
 ## Ruby
 
-* [Ruby元编程笔记](ruby/ruby-meta-programming.md)
+* [Ruby元编程笔记](ruby/ruby-meta-programming/README.md)
+  * [前言](ruby/ruby-meta-programming/qian-yan.md)
+  * [第一章 元这个字眼](ruby/ruby-meta-programming/di-yi-zhang-yuan-zhe-ge-zi-yan.md)
+  * [第二章 星期一：对象模型](ruby/ruby-meta-programming/di-er-zhang-xing-qi-yi-dui-xiang-mo-xing.md)
+  * [第三章 星期二：方法](ruby/ruby-meta-programming/di-san-zhang-xing-qi-er-fang-fa.md)
+  * [第四章 星期三：代码块](ruby/ruby-meta-programming/di-si-zhang-xing-qi-san-dai-ma-kuai.md)
+  * [第五章 星期四：类定义](ruby/ruby-meta-programming/di-wu-zhang-xing-qi-si-lei-ding-yi.md)
+  * [第六章 星期五：编写代码的代码](ruby/ruby-meta-programming/di-liu-zhang-xing-qi-wu-bian-xie-dai-ma-de-dai-ma.md)
 * [简单开发一个CLI](ruby/cli-develop.md)
 
 ## Other
