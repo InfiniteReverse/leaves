@@ -1,2 +1,2 @@
-# NSCoping 协议
+# NSCopying协议
 
