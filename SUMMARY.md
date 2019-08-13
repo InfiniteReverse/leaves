@@ -29,6 +29,8 @@
 * [App Crash指标](ios/crash-specification.md)
 * [iOS组件化设计与实现](ios/ios-modularized-design.md)
 * [pthread了解](ios/pthread.md)
+* [OC泛型\_\_covariant与\_\_contravariant](ios/generic.md)
+* [NSCopying协议](ios/nscoping.md)
 
 ## Ruby
 
