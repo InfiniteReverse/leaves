@@ -31,6 +31,7 @@
 * [pthread了解](ios/pthread.md)
 * [OC泛型\_\_covariant与\_\_contravariant](ios/generic.md)
 * [NSCopying协议](ios/nscoping.md)
+* [如何显示一个超大的图片](ios/largeImageDownsizing.md)
 
 ## Ruby
 
