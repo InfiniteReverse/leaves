@@ -4,10 +4,15 @@
 
 ## Swift
 
+* [环境说明](swift/env.md)
 * [static func 与 class func 区别](swift/static-func-yu-class-func-qu-bie.md)
 * [OC与Swift混编](swift/oc-mix-swift.md)
 * [Access Control 访问控制](swift/access-control-fang-wen-kong-zhi.md)
 * [Swift中返回Self](swift/swift-zhong-fan-hui-self.md)
+* [Swift运算符](swift/swift-operator.md)
+* [Required修饰符](swift/swift-required.md)
+* [struct和class的区别](swift/swift-diff-between-struct-class.md)
+* [swift的属性](swift/swift-attributes.md)
 
 ## RxSwift
 
