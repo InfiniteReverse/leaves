@@ -13,6 +13,7 @@
 * [Required修饰符](swift/swift-required.md)
 * [struct和class的区别](swift/swift-diff-between-struct-class.md)
 * [swift的属性](swift/swift-attributes.md)
+* [init与deinit](swift/swift-init-deinit.md)
 
 ## RxSwift
 
