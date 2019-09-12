@@ -14,6 +14,9 @@
 * [struct和class的区别](swift/swift-diff-between-struct-class.md)
 * [swift的属性](swift/swift-attributes.md)
 * [init与deinit](swift/swift-init-deinit.md)
+* [控件上添加虚线框](swift/swift-dot-border.md)
+* [Error](swift/swift-error.md)
+* [convenience](swift-convenience.md)
 
 ## RxSwift
 
