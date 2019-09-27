@@ -16,7 +16,8 @@
 * [init与deinit](swift/swift-init-deinit.md)
 * [控件上添加虚线框](swift/swift-dot-border.md)
 * [Error](swift/swift-error.md)
-* [convenience](swift-convenience.md)
+* [convenience](swift/swift-convenience.md)
+* [Cannot override mutable property with read-only property 'path'](swift/override-property.md)
 
 ## RxSwift
 
@@ -41,6 +42,8 @@
 * [OC泛型\_\_covariant与\_\_contravariant](ios/generic.md)
 * [NSCopying协议](ios/nscoping.md)
 * [如何显示一个超大的图片](ios/largeImageDownsizing.md)
+* [addChildViewController注意事项](ios/addchildviewcontroller.md)
+* [横竖屏总结](ios/orientation.md)
 
 ## Ruby
 
