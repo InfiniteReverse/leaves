@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [序](README.md)
 
 ## Swift
 
@@ -44,6 +44,7 @@
 * [如何显示一个超大的图片](ios/largeImageDownsizing.md)
 * [addChildViewController注意事项](ios/addchildviewcontroller.md)
 * [横竖屏总结](ios/orientation.md)
+* [App优化总结](ios/app-optimization.md)
 
 ## Ruby
 
