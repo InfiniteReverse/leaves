@@ -25,6 +25,9 @@
 
 ## iOS
 
+* [TaggedPointer](ios/taggedpointer.md)
+* [Block总结](ios/block.md)
+* [weak是怎么实现的](ios/objc-weak.md)
 * [AutoreleasePool总结](ios/autoreleasepool.md)
 * [Tableview 优化](ios/tableview-optimization.md)
 * [多线程总结](ios/multithread.md)
