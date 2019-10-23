@@ -63,10 +63,10 @@
 
 ## Other
 
+* [HTTP协议总结](other/http-summary.md)
+* [HTTP接口设计](other/http-interface-design.md)
 * [设计模式](other/design-pattern.md)
 * [Git原理分析](other/git-analysis.md)
-* [HTTP接口设计](other/http-interface-design.md)
-* [HTTP协议总结](other/http-summary.md)
 * [项目规范设计](other/project-specification.md)
 * [RPC总结](other/rpc-summary.md)
 * [URL Encode分析](other/url-encode.md)
