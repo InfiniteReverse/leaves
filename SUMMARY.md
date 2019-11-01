@@ -25,6 +25,7 @@
 
 ## iOS
 
+* [APM](ios/apm.md)
 * [性能优化](ios/performance-optimize.md)
 * [TaggedPointer](ios/taggedpointer.md)
 * [Block总结](ios/block.md)
@@ -71,8 +72,6 @@
 * [HTTP接口设计](other/http-interface-design.md)
 * [TCP](other/tcp.md)
 * [设计模式](other/design-pattern.md)
-* [Git原理分析](other/git-analysis.md)
-* [项目规范设计](other/project-specification.md)
 * [RPC总结](other/rpc-summary.md)
 * [URL Encode分析](other/url-encode.md)
 
