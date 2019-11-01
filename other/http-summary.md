@@ -1,10 +1,10 @@
 # HTTP协议总结
 
-### 概念
+## 概念
 
 HTTP（全称：Hyper Text Transfer Protocol），即超文本传输协议，用于从www服务器传输超文本到本地浏览器的传送协议。
 
-### 特点
+## 特点
 
 1. 基于TCP/IP协议来传递数据
 2. 属于OSI七层模型的应用层，OSI七层从下网上依次为物理层、数据链路层、网络层、传输层、会话层、表示层、应用层
@@ -17,7 +17,7 @@ HTTP（全称：Hyper Text Transfer Protocol），即超文本传输协议，用
 
 > 图片来源网上
 
-### 工作原理
+## 工作原理
 
 1. 建立TCP连接，通过TCP/IP协议
 2. 客户端向服务端发送请求
@@ -27,7 +27,7 @@ HTTP（全称：Hyper Text Transfer Protocol），即超文本传输协议，用
 
 
 
-### 消息结构
+## 消息结构
 
 请求报文：
 
@@ -375,11 +375,11 @@ Accept-Language: en, mi
 
 # HTTPS
 
-### 概念
+## 概念
 
 HTTPS（全称：Hyper Text Transfer Protocol over SecureSocket Layer）即 HTTP+TSL，是HTTP的升级版协议，经由HTTP进行通信，利用SSL/TLS建立全信道，加密数据包。HTTPS使用的主要目的是提供对网站服务器的身份认证，同时保护交换数据的隐私与完整性。
 
-### HTTPS特点
+## HTTPS特点
 
 - 内容加密，采用混合加密技术，中间人无法查看内容
 - 验证身份，通过证书认证客户端访问的是自己的服务器
@@ -397,7 +397,7 @@ HTTPS（全称：Hyper Text Transfer Protocol over SecureSocket Layer）即 HTTP
 >
 > **数字签名技术：**数字签名建立在公钥加密体制基础上，是公钥加密技术的另一类应用。它把公钥加密技术和数字摘要结合起来，形成了实用的数字签名技术。
 
-### 工作原理
+## 工作原理
 
 HTTPS在传输数据之前需要客户端与服务端之间进行一次握手，在握手过程中将确立双方加密传输数据的密码信息。TLS/SSL协议中使用了非对称加密，对称加密以及HASH算法。具体过程如下：
 
@@ -432,14 +432,14 @@ HTTPS在传输数据之前需要客户端与服务端之间进行一次握手，
 
 > CA，即Certificate Authority，权威机构，一切的信任机制都是基于CA，如果CA的私钥泄露或者信任了一个错误的CA，那么HTTPS的安全性就不复存在了
 
-### HTTP与HTTPS的区别
+## HTTP与HTTPS的区别
 
 - HTTPS协议需要到CA申请证书，一般免费证书很少，需要交费。
 - HTTP协议运行在TCP之上，所有传输的内容都是明文，HTTPS运行在SSL/TLS之上，SSL/TLS运行在TCP之上，所有传输的内容都经过加密的。
 - HTTP和HTTPS使用的是完全不同的连接方式，用的端口也不一样，前者是80，后者是443。
 - HTTPS可以有效的防止运营商劫持，解决了防劫持的一个大问题。
 
-### HTTPS的待改进
+## HTTPS的待改进
 
 - 技术方面
   - HTTPS协议会使页面的加载时间延长近50%，增加10%到20%的耗电。此外，HTTPS协议还会影响缓存，增加数据开销和功耗。
