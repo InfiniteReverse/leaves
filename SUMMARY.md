@@ -73,6 +73,4 @@
 * [HTTP接口设计](other/http-interface-design.md)
 * [TCP](other/tcp.md)
 * [设计模式](other/design-pattern.md)
-* [RPC总结](other/rpc-summary.md)
-* [URL Encode分析](other/url-encode.md)
 
