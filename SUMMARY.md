@@ -70,6 +70,7 @@
 ## Other
 
 * [HTTP协议总结](other/http-summary.md)
+* [HTTP FAQ](other/http-faq.md)
 * [HTTP接口设计](other/http-interface-design.md)
 * [TCP](other/tcp.md)
 * [设计模式](other/design-pattern.md)
