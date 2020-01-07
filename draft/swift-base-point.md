@@ -95,4 +95,43 @@
     let mappedNumbers = numbers.map({ number in 3 * number })
     ```
 
+11. 类里面，每个属性都需要在声明处初始化或者在init方法中初始化一个值
+
+12. 储存属性（Stored Properties）的setter里面隐含一个参数 newValue，也可以在括号中提供一个显示的名称
+
+13. 使用willSet和didSet处理设置属性前后的事情，值得变化会在除了initializer方法外执行
+
+14. 对于optional值，？前的如果是nil，那么后面的值将被忽略，整个表达式的值都是nil
+
+15. 枚举内可以有与之关联的方法
+
+    ```
+    enum Rank: Int {
+        case ace = 1
+        case two, three, four, five, six, seven, eight, nine, ten
+        case jack, queen, king
     
+        func simpleDescription() -> String {
+            switch self {
+            case .ace:
+                return "ace"
+            case .jack:
+                return "jack"
+            case .queen:
+                return "queen"
+            case .king:
+                return "king"
+            default:
+                return String(self.rawValue)
+            }
+        }
+    }
+    let ace = Rank.ace
+    let aceRawValue = ace.rawValue
+    ```
+
+16. 枚举初始值为0，按顺序依次递增1，也可以显示指定。
+
+17. 使用init?(rawValue:)可以从原始值创建枚举实例，返回与原始值匹配的枚举值，如果没有匹配则返回nil
+
+18. 
